@@ -25,8 +25,3 @@ Meu objetivo é praticar a lógica de programação, evoluir minhas habilidades 
 
 ---
 
-## 🚀 Como Usar
-
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
