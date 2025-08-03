@@ -1,9 +1,8 @@
 # Exercícios Python 🐍 - Hashtag Treinamentos
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmarquespro/)
 ![Python](https://img.shields.io/badge/Linguagem-Python-blue?logo=python&style=flat)
 ![Status](https://img.shields.io/badge/Status-Em%20Progresso-yellow)
-![License](https://img.shields.io/badge/Licença-MIT-green)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmarquespro/)
 
 
 Este repositório reúne todos os exercícios que estou fazendo no curso de Python da Hashtag Treinamentos.  
